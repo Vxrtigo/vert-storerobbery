@@ -2,15 +2,16 @@ A free store robbery script allowing you to lockpick registers, hack computers, 
 
 Features:
 
-24 Lockpickable Registers
-Chance of finding a "Valuable Item"
-12 Hackable Computers and Safes
+- 24 Lockpickable Registers
+- Chance of finding a "Valuable Item"
+- 12 Hackable Computers and Safes
 
 # Dependencies:
 
 - QBCore
 - ps-ui
 - Ox_Target
+- Ox_inventory
 
 - ps-dispatch or cd_dispatch
 
