@@ -8,11 +8,11 @@ Chance of finding a "Valuable Item"
 
 # Dependencies:
 
-QBCore
-ps-ui
-Ox_Target
+- QBCore
+- ps-ui
+- Ox_Target
 
-ps-dispatch or cd_dispatch
+- ps-dispatch or cd_dispatch
 
 ## Installation Guide:
 
